@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "directories": {
-    "test": "mocha",
-    "start": "node ./index.js"
+    "test": "tests"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
